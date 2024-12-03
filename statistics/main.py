@@ -12,6 +12,8 @@ def median(numbers: list) -> float:
 
 def variance(numbers: list) -> float:
     average = mean(numbers)
+    #TODO implement
+    return average
 
 
 
